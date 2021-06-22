@@ -1,4 +1,8 @@
-# frontend
+# frontend 
+
+Aplicativo baseado no curso: https://igorhalfeld.teachable.com/courses/enrolled/1283923
+
+O curso visa ensinar o uso de Vue 3 e as principais mudanças da versão anterior para a atual.
 
 ## Project setup
 ```
